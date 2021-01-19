@@ -1,0 +1,129 @@
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Bryan's Resume</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link href="StyleSheet.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<body>
+    <p><h2><u>Personal Information</u></h2></p>
+    <div class="media">
+        <img src="image/profile.png" width="150px" class="align-self-center mr-3" />
+        <div class="media-body">
+            <h5 class="px-2"><b>Name: </b>Poo Fang Hao Bryan</h5>
+            <h5 class="px-2"><b>Data/Place of birth: </b>2001/11/08 Malaysia</h5>
+            <h5 class="px-2"><b>Nationality: </b>Singaporean</h5>
+            <h5 class="px-2"><b>Phone Number: </b>(+65)97737982</h5>
+            <h5 class="px-2"><b>Email Address: </b>bryanpoo2001@gmail.com, poo_fang_hao_bryan@connect.ite.edu.sg</h5>
+            <h5 class="px-2"><b>Address: </b>Blk430, Jurong West Ave 1 #09-276 Singapore, 640430</h5>
+        </div>
+    </div>
+
+    <hr style="height:2px;border-width:0;color:gray;background-color:deepskyblue">
+
+    <div>
+        <p><h2><u>Profile</u></h2></p>
+        <h5>A responsible person, Hardworking and often tries his best to complete a task well. He possesses a quiet and confident demeanour. His ability to make sound decisions when under pressure has won the admiration of his peers. As such he was elected to be the Assistant Class Chairperson of the Class Committee for two consecutive years from 2018 to 2019, during which he was most helpful to the teachers in carrying out class administrative duties. He has always had a positive attitude towards learning.</h5><br />
+    </div>
+    <div>
+        <p><h2><u>Education</u></h2></p>
+        <div class="media">
+            <img src="image/ite.png" width="150px" class="align-self-center mr-3" />
+            <div class="media-body">
+                <h5 class="px-2"><b>ITE College Central </b></h5><br />
+                <h7 class="px-2">&#8226; Jan 2020 -
+            </div>
+        </div><br>
+        <div class="media">
+            <img src="image/school.jpg" width="150px" class="align-self-center mr-3" />
+            <div class="media-body">
+                <h5 class="px-2"><b>Jurongville Secondary School </b></h5><br />
+                <h7 class="px-2">&#8226; Jan 2016 - Nov 2019
+            </div>
+        </div><br>
+    <div>
+        <p><h2><u>Certificates</u></h2></p>
+        <h5>&#8226; GCE "N" Level</h5>
+        <h5>&#8226; Small Business Operations</h5>
+        <h5>&#8226; Residential Electricity</h5>
+        <h5>&#8226; Young Enginner Award(Silver)</h5>
+    </div><br>
+    <div>
+        <p><h2><u>Co-Curricular activities (CCA)</u></h2></p>
+        <h5> &#8226; Badminton<h7>&nbsp;&nbsp;<font size="-1">Jan 2016 - Dec 2019</font></h7></h5>
+        <h5> &#8226; Badminton School Team<h7>&nbsp;&nbsp;<font size="-1">Jan 2018 - Nov 2018</font></h7></h5>
+        <h5> &#8226; Mental Skills Workshop<h7>&nbsp;&nbsp;<font size="-1">13 Sep 2018</font></h7></h5>
+        <h5> &#8226; CPR + AED Introducktory Workshop<h7>&nbsp;&nbsp;<font size="-1">18 Oct 2018</font></h7></h5>
+        <h5> &#8226; All Singapore Secondary Mathematics Competition For Normal Course Students 2017<h7>&nbsp;&nbsp;<font size="-1">15 Aug 2017</font></h7></h5>
+        <h5> &#8226; Residential Electricity<h7>&nbsp;&nbsp;<font size="-1">04 Jul 2017 - 07 Jul 2017</font></h7></h5>
+        <h5> &#8226; Small Business Operations<h7>&nbsp;&nbsp;<font size="-1">25 Mar 2019 - 29 Mar 2019</font></h7></h5>
+    </div><br />
+    <div>
+        <p><h2><u>Experiences</u></h2></p>
+        <h4>Projects</h4>
+        <font size="2"><h5> &#8226; DATA ANALYTICS on SIA(Singapore Airlines) using Qlik.</h5></font>
+    </div><br />
+    <div>
+        <p><h2><u>Skills</u></h2></p>
+        <h5>&#8226; Microsoft Word</h5>
+        <h5>&#8226; Microsoft PowerPoint</h5>
+        <h5>&#8226; Basic knowledge of Microsoft Excel</h5>
+        <h5>&#8226; Scratch</h5>
+        <h5>&#8226; Cisco Packet Tracer</h5>
+        <h5>&#8226; Basic knowledge of Qlik</h5>
+    </div><br>
+    <div>
+        <p><h2><u>Language Skills</u></h2></p>
+        <div>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Language</th>
+                        <th scope="col">Spoken</th>
+                        <th scope="col">Written</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>English</td>
+                        <td>Fair</td>
+                        <td>Fair</td>
+                    </tr>
+                    <tr>
+                        <td>Mandarin</td>
+                        <td>Excellent</td>
+                        <td>Excellent</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div><br />
+    <div>
+        <p><h2><u>Character Referees</u></h2></p>
+        <div>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Mdm Shafiza</th>
+                        <th scope="col">(+65)94512447</th>
+                        <th scope="col">Form Teacher</th>
+                        <th scope="col">Jurongville Secondary School</th>
+</tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="col">Mr Dany</td>
+                        <th scope="col">(+65)96850368</td>
+                        <th scope="col">Class Advisor</td>
+                        <th scope="col">ITE College Central</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
